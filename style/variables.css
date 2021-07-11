@@ -45,7 +45,7 @@ all of MD as it is not optimized for dense, information rich UIs.
 Custom colors
 */
 
-   --hale-mono: #abb2bf;
+   --hale-mono: #737f94;
    --hale-mono-grey: #5c6370;
 
    --hale-bg: #011627;
@@ -60,7 +60,7 @@ Custom colors
    --hale-light-cyan: #59e1e307;
    --hale-active-cyan: #59e1e350;
 
-   --hale-object-blue: #296c87;
+   --hale-object-blue: #cdebf7;
    --hale-blue: #26bbd9;
 
    --hale-red: #EF5350;
